@@ -213,11 +213,14 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+<img width="796" height="698" alt="image" src="https://github.com/user-attachments/assets/4a8bc304-7459-4826-90dc-b36261fa4577" />
 
 
 
 
 # Output:
+<img width="527" height="241" alt="image" src="https://github.com/user-attachments/assets/76c0e2d8-60b1-48e2-8ba2-a01cb9d99809" />
+
 
 
 
